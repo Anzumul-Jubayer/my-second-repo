@@ -1,0 +1,32 @@
+body{
+    height: 300px;
+    background-color: black;
+}
+div h3{
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: burlywood;
+    box-shadow: 10px 10px 10px blue;
+}
+h3{
+    text-align: center;
+    border: 5px solid green;
+    border-radius: 10px;
+}
+p{
+    border: 2px solid black;
+    border-color: green;
+    background-color: gray;
+    padding: 30px;
+    margin: 50px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px green;
+    color:wheat
+}
+span{
+    border:2px solid red;
+    height: 20px;
+    width: 20px;
+    display: inlie-block;
+    background-color: green;
+}
